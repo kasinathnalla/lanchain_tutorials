@@ -1,0 +1,24 @@
+# Public LLMS - This is free at the time I am learning
+# please goto https://console.groq.com/keys to get your own API key. Once you have it then keep in .env file in the root of the project. 
+# FYI: I am not checking it in.
+langchain-groq
+langchain-openai
+python-dotenv
+
+#Local LLMS
+langchain-ollama
+ollama
+
+# HuggingFace dependencies
+torch
+transformers
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# For UI. We Dont need this for first chapter.
+streamlit
+scikit-learn
+numpy
