@@ -22,3 +22,5 @@ huggingface-hub
 streamlit
 scikit-learn
 numpy
+pydantic
+pydantic[email]
